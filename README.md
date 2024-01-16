@@ -99,7 +99,7 @@ Ce projet est une application web développée avec JHipster, React, Spring Boot
 4. Accédez au répertoire du projet: 
 
      ```bash
-    cd Projet-Gestion_des_fermes
+    cd progetGFerme
     ```
 
 5. Utilisez Docker Compose pour construire et démarrer les conteneurs:
