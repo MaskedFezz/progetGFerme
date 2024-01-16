@@ -93,7 +93,7 @@ Ce projet est une application web développée avec JHipster, React, Spring Boot
 2. Clonez ce dépôt: 
 
     ```bash
-    git clone https://github.com/Ghaziyassine/Projet-Gestion_des_fermes.git
+    git clone https://github.com/MaskedFezz/progetGFerme.git
     ```
 
 4. Accédez au répertoire du projet: 
@@ -116,7 +116,7 @@ Ce projet est une application web développée avec JHipster, React, Spring Boot
 
 Si vous préférez ne pas utiliser Docker, vous pouvez également installer manuellement les dépendances front-end et back-end comme indiqué précédemment.
 
-1. Clonez ce dépôt: `git clone  https://github.com/Ghaziyassine/Projet-Gestion_des_fermes.git`
+1. Clonez ce dépôt: `git clone https://github.com/MaskedFezz/progetGFerme.git`
 
 2. Accédez au répertoire du projet: `cd  Projet-Gestion_des_fermes`
 
