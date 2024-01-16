@@ -61,13 +61,14 @@ Ce projet est une application web développée avec JHipster, React, Spring Boot
   - Ajouter, modifier et supprimer des plantes.
   - Planter des plantes dans les parcelles.
 
-- **Gestion des Types de Plantes**
+- **Gestion des Types de Plantes** (pour les administrateurs)
   - Ajouter, modifier et supprimer des types de plantes.
 
 - **Historique de Plantage**
+- - Ajouter, modifier et supprimer des plantages.
   - Consulter l'historique des plantations.
 
-- **Administration**
+- **Administration** (pour les administrateurs)
   - Gestion des utilisateurs.
   - Accès aux statistiques.
 
