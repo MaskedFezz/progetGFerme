@@ -1,0 +1,27 @@
+{
+  "gestionDesFermesApp": {
+    "parcelle": {
+      "home": {
+        "title": "القطع الزراعية",
+        "refreshListLabel": "تحديث القائمة",
+        "createLabel": "إنشاء قطعة زراعية جديدة",
+        "createOrEditLabel": "إنشاء أو تحرير قطعة زراعية",
+        "notFound": "لم يتم العثور على قطع زراعية"
+      },
+      "created": "تم إنشاء قطعة زراعية جديدة بالمعرف {{ param }}",
+      "updated": "تم تحديث قطعة زراعية بالمعرف {{ param }}",
+      "deleted": "تم حذف قطعة زراعية بالمعرف {{ param }}",
+      "delete": {
+        "question": "هل أنت متأكد أنك تريد حذف قطعة زراعية {{ id }}؟"
+      },
+      "detail": {
+        "title": "القطعة الزراعية"
+      },
+      "id": "المعرف",
+      "parcelleLibelle": "اسم القطعة الزراعية",
+      "photo": "صورة",
+      "plantage": "الزراعة",
+      "fermeLibelle": "المزرعة"
+    }
+  }
+}

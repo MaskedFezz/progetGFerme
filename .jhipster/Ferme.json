@@ -1,0 +1,30 @@
+{
+  "annotations": {
+    "changelogDate": "20231223122501"
+  },
+  "applications": "*",
+  "changelogDate": "20231223122501",
+  "entityTableName": "ferme",
+  "fields": [
+    {
+      "fieldName": "fermeLibelle",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "photo",
+      "fieldType": "byte[]",
+      "fieldTypeBlobContent": "any"
+    }
+  ],
+  "name": "Ferme",
+  "relationships": [
+    {
+      "otherEntityName": "parcelle",
+      "otherEntityRelationshipName": "fermeLibelle",
+      "relationshipName": "parcelle",
+      "relationshipSide": "left",
+      "relationshipType": "one-to-many"
+    }
+  ],
+  "searchEngine": "no"
+}

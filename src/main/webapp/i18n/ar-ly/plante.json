@@ -1,0 +1,28 @@
+{
+  "gestionDesFermesApp": {
+    "plante": {
+      "home": {
+        "title": "النباتات",
+        "refreshListLabel": "تحديث القائمة",
+        "createLabel": "إنشاء نبات جديد",
+        "createOrEditLabel": "إنشاء أو تحرير نبات",
+        "notFound": "لم يتم العثور على نباتات"
+      },
+      "created": "تم إنشاء نبات جديد بالمعرف {{ param }}",
+      "updated": "تم تحديث نبات بالمعرف {{ param }}",
+      "deleted": "تم حذف نبات بالمعرف {{ param }}",
+      "delete": {
+        "question": "هل أنت متأكد أنك تريد حذف النبات {{ id }}؟"
+      },
+      "detail": {
+        "title": "النبات"
+      },
+      "id": "المعرف",
+      "planteLibelle": "اسم النبات",
+      "racine": "الجذر",
+      "photo": "صورة",
+      "plantage": "الزراعة",
+      "nom": "الاسم"
+    }
+  }
+}

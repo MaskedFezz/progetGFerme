@@ -1,0 +1,23 @@
+{
+  "home": {
+    "title": "Welcome to Your Farm Management Dashboard!",
+    "subtitle": "Efficiently Manage Your Farm with Our Platform",
+    "logged": {
+      "message": "You are logged in as user \"{{username}}\"."
+    },
+    "question": "If you have any questions about our farm management project:",
+    "link": {
+      "homepage": "Farm Management Dashboard",
+      "stackoverflow": "Farm Management on Stack Overflow",
+      "bugtracker": "Report Issues or Bugs",
+      "chat": "Farm Management Community Chat",
+      "follow": "Follow @farmmanagement on Twitter",
+      "fezzazi": "MOHAMED FEZZAZI github",
+      "ghazi": "YASSINE GHAZI github"
+    },
+    "like": "If you find our Farm Management platform helpful, please give us a star on",
+    "github": "GitHub",
+    "footer": "contact us: 060000000",
+    "footer.copyright": "© Copyright Mohamed Fezzazi and Ghazi Yassine"
+  }
+}

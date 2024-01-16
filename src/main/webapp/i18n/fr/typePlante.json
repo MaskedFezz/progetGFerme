@@ -1,0 +1,28 @@
+{
+  "gestionDesFermesApp": {
+    "typePlante": {
+      "home": {
+        "title": "TypePlantes",
+        "refreshListLabel": "Actualiser la liste",
+        "createLabel": "Créer un nouveau Type Plante",
+        "createOrEditLabel": "Créer ou éditer un Type Plante",
+        "notFound": "Aucun Type Plante trouvé"
+      },
+      "created": "Un nouveau Type Plante a été créé avec l'identifiant {{ param }}",
+      "updated": "Le Type Plante avec l'identifiant {{ param }} a été mis à jour",
+      "deleted": "Le Type Plante avec l'identifiant {{ param }} a été supprimé",
+      "delete": {
+        "question": "Êtes-vous certain de vouloir supprimer le Type Plante {{ id }} ?"
+      },
+      "detail": {
+        "title": "Type Plante"
+      },
+      "id": "ID",
+      "nom": "Nom",
+      "humiditeMax": "Humidite Max",
+      "humiditeMin": "Humidite Min",
+      "temperature": "Temperature",
+      "plante": "Plante"
+    }
+  }
+}

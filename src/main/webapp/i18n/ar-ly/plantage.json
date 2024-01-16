@@ -1,0 +1,27 @@
+{
+  "gestionDesFermesApp": {
+    "plantage": {
+      "home": {
+        "title": "الزراعات",
+        "refreshListLabel": "تحديث القائمة",
+        "createLabel": "إنشاء زراعة جديدة",
+        "createOrEditLabel": "إنشاء أو تحرير زراعة",
+        "notFound": "لم يتم العثور على زرعات"
+      },
+      "created": "تم إنشاء زراعة جديدة بالمعرف {{ param }}",
+      "updated": "تم تحديث زراعة بالمعرف {{ param }}",
+      "deleted": "تم حذف زراعة بالمعرف {{ param }}",
+      "delete": {
+        "question": "هل أنت متأكد أنك تريد حذف الزراعة {{ id }}؟"
+      },
+      "detail": {
+        "title": "الزراعة"
+      },
+      "id": "المعرف",
+      "date": "التاريخ",
+      "nombre": "العدد",
+      "planteLibelle": "اسم النبتة",
+      "parcelleLibelle": "اسم القطعة الزراعية"
+    }
+  }
+}

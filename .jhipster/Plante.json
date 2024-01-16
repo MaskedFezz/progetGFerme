@@ -1,0 +1,40 @@
+{
+  "annotations": {
+    "changelogDate": "20231223122701"
+  },
+  "applications": "*",
+  "changelogDate": "20231223122701",
+  "entityTableName": "plante",
+  "fields": [
+    {
+      "fieldName": "planteLibelle",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "racine",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "photo",
+      "fieldType": "byte[]",
+      "fieldTypeBlobContent": "any"
+    }
+  ],
+  "name": "Plante",
+  "relationships": [
+    {
+      "otherEntityName": "plantage",
+      "otherEntityRelationshipName": "planteLibelle",
+      "relationshipName": "plantage",
+      "relationshipSide": "left",
+      "relationshipType": "one-to-many"
+    },
+    {
+      "otherEntityName": "typePlante",
+      "relationshipName": "nom",
+      "relationshipSide": "right",
+      "relationshipType": "many-to-one"
+    }
+  ],
+  "searchEngine": "no"
+}

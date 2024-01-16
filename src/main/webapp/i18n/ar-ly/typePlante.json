@@ -1,0 +1,28 @@
+{
+  "gestionDesFermesApp": {
+    "typePlante": {
+      "home": {
+        "title": "أنواع النباتات",
+        "refreshListLabel": "تحديث القائمة",
+        "createLabel": "إنشاء نوع جديد من النبات",
+        "createOrEditLabel": "إنشاء أو تحرير نوع من النبات",
+        "notFound": "لم يتم العثور على أنواع النباتات"
+      },
+      "created": "تم إنشاء نوع جديد من النبات بالمعرف {{ param }}",
+      "updated": "تم تحديث نوع من النبات بالمعرف {{ param }}",
+      "deleted": "تم حذف نوع من النبات بالمعرف {{ param }}",
+      "delete": {
+        "question": "هل أنت متأكد أنك تريد حذف نوع من النبات بالمعرف {{ id }}؟"
+      },
+      "detail": {
+        "title": "نوع النبات"
+      },
+      "id": "المعرف",
+      "nom": "الاسم",
+      "humiditeMax": "الرطوبة القصوى",
+      "humiditeMin": "الرطوبة الدنيا",
+      "temperature": "درجة الحرارة",
+      "plante": "النبات"
+    }
+  }
+}

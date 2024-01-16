@@ -1,0 +1,26 @@
+{
+  "gestionDesFermesApp": {
+    "ferme": {
+      "home": {
+        "title": "Fermes",
+        "refreshListLabel": "Actualiser la liste",
+        "createLabel": "Créer un nouveau Ferme",
+        "createOrEditLabel": "Créer ou éditer un Ferme",
+        "notFound": "Aucun Ferme trouvé"
+      },
+      "created": "Un nouveau Ferme a été créé avec l'identifiant {{ param }}",
+      "updated": "Le Ferme avec l'identifiant {{ param }} a été mis à jour",
+      "deleted": "Le Ferme avec l'identifiant {{ param }} a été supprimé",
+      "delete": {
+        "question": "Êtes-vous certain de vouloir supprimer le Ferme {{ id }} ?"
+      },
+      "detail": {
+        "title": "Ferme"
+      },
+      "id": "ID",
+      "fermeLibelle": "Ferme Libelle",
+      "photo": "Photo",
+      "parcelle": "Parcelle"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "home": {
+    "title": "Bienvenue sur votre tableau de bord de gestion de ferme !",
+    "subtitle": "Gérez efficacement votre ferme avec notre plateforme",
+
+    "logged": {
+      "message": "Vous êtes connecté en tant qu'utilisateur \"{{username}}\"."
+    },
+    "question": "Si vous avez des questions sur notre projet de gestion de ferme :",
+    "link": {
+      "homepage": "Tableau de bord de gestion de ferme",
+      "stackoverflow": "Gestion de ferme sur Stack Overflow",
+      "bugtracker": "Signaler des problèmes ou des bugs",
+      "chat": "Chat communautaire sur la gestion de ferme",
+      "follow": "Suivez @farmmanagement sur Twitter",
+      "fezzazi": "MOHAMED FEZZAZI github",
+      "ghazi": "YASSINE GHAZI github"
+    },
+    "like": "Si vous trouvez notre plateforme de gestion de ferme utile, donnez-nous une étoile sur",
+    "github": "GitHub",
+    "footer": "contactez nous: 060000000",
+    "footer.copyright": "© Copyright Mohamed Fezzazi et Ghazi Yassine"
+  }
+}

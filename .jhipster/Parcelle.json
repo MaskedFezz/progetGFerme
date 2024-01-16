@@ -1,0 +1,36 @@
+{
+  "annotations": {
+    "changelogDate": "20231223122601"
+  },
+  "applications": "*",
+  "changelogDate": "20231223122601",
+  "entityTableName": "parcelle",
+  "fields": [
+    {
+      "fieldName": "parcelleLibelle",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "photo",
+      "fieldType": "byte[]",
+      "fieldTypeBlobContent": "any"
+    }
+  ],
+  "name": "Parcelle",
+  "relationships": [
+    {
+      "otherEntityName": "plantage",
+      "otherEntityRelationshipName": "parcelleLibelle",
+      "relationshipName": "plantage",
+      "relationshipSide": "left",
+      "relationshipType": "one-to-many"
+    },
+    {
+      "otherEntityName": "ferme",
+      "relationshipName": "fermeLibelle",
+      "relationshipSide": "right",
+      "relationshipType": "many-to-one"
+    }
+  ],
+  "searchEngine": "no"
+}

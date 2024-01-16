@@ -1,0 +1,26 @@
+{
+  "gestionDesFermesApp": {
+    "ferme": {
+      "home": {
+        "title": "المزارع",
+        "refreshListLabel": "تحديث القائمة",
+        "createLabel": "إنشاء مزرعة جديدة",
+        "createOrEditLabel": "إنشاء أو تحرير مزرعة",
+        "notFound": "لم يتم العثور على مزارع"
+      },
+      "created": "تم إنشاء مزرعة جديدة بالمعرف {{ param }}",
+      "updated": "تم تحديث مزرعة بالمعرف {{ param }}",
+      "deleted": "تم حذف مزرعة بالمعرف {{ param }}",
+      "delete": {
+        "question": "هل أنت متأكد أنك تريد حذف مزرعة {{ id }}؟"
+      },
+      "detail": {
+        "title": "المزرعة"
+      },
+      "id": "المعرف",
+      "fermeLibelle": "اسم المزرعة",
+      "photo": "صورة",
+      "parcelle": "قطعة الأرض"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "home": {
+    "title": "مرحبًا بك في لوحة متابعة إدارة مزرعتك!",
+    "subtitle": "إدارة مزرعتك بكفاءة مع منصتنا",
+    "logged": {
+      "message": "أنت مسجل الدخول كمستخدم \"{{username}}\"."
+    },
+    "question": "إذا كانت لديك أي أسئلة حول مشروع إدارة المزرعة الخاص بنا:",
+    "link": {
+      "homepage": "لوحة متابعة إدارة المزرعة",
+      "stackoverflow": "إدارة المزرعة على Stack Overflow",
+      "bugtracker": "الإبلاغ عن مشاكل أو أخطاء",
+      "chat": "دردشة مجتمع إدارة المزرعة",
+      "follow": "تابع @farmmanagement على تويتر",
+      "fezzazi": "MOHAMED FEZZAZI github",
+      "ghazi": "YASSINE GHAZI github"
+    },
+
+    "like": "إذا وجدت منصتنا لإدارة المزرعة مفيدة، يرجى منحنا نجمة على",
+    "github": "GitHub",
+    "footer": "اتصل بنا: 060000000",
+    "footer.copyright": "© حقوق النشر محمد فزازي وغازي ياسين"
+  }
+}

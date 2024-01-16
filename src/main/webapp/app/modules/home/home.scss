@@ -1,0 +1,129 @@
+/* ==========================================================================
+Main page styles
+========================================================================== */
+
+.farm-management-container {
+  background: url('/content/images/ferme-image.jpg') no-repeat center top;
+  background-size: cover;
+  padding: 40px; /* Add padding for better spacing */
+}
+
+.hipster {
+  display: inline-block;
+  width: 100%;
+  height: 497px; /* You may need to adjust the height based on your image */
+  text-align: center;
+}
+
+.edgy-box {
+  border: 2px solid #fff; /* Border color */
+  border-radius: 10px; /* Border radius for an edgy look */
+  padding: 20px; /* Padding inside the box */
+  background-color: #fff; /* White background color */
+}
+
+/* Increase space between title and subtitle */
+.edgy-box h1 {
+  margin-bottom: 20px;
+}
+.farm-icon {
+  text-align: center; /* Center the farm icon */
+}
+
+.icon {
+  display: inline-block;
+  width: 100px; /* Adjust the width of the icon */
+  height: 100px; /* Adjust the height of the icon */
+  background-color: #4caf50; /* Placeholder background color */
+  border-radius: 50%; /* Make it a circle */
+  color: #fff; /* Icon color */
+  font-size: 2rem; /* Icon font size */
+  line-height: 100px; /* Center the icon vertically */
+}
+
+.display-4 {
+  font-size: 3rem; /* Increase the font size of the main title */
+  margin-bottom: 20px; /* Add spacing below the main title */
+  color: #333; /* Main title color */
+}
+
+.lead {
+  font-size: 1.5rem; /* Increase the font size of the lead text */
+  color: #555; /* Darken the lead text color */
+}
+
+.alert {
+  margin-top: 20px; /* Add spacing between alerts */
+}
+
+.alert-link {
+  font-weight: bold; /* Make the alert links bold */
+  color: #0d0d0e; /* Set link color to a standard blue */
+}
+
+/* Style the box containing the list items */
+.list-box {
+  background-color: #28a745; /* Light gray background color */
+  padding: 5px; /* Padding inside the box */
+}
+
+ul {
+  list-style-type: none; /* Remove default list styles */
+  padding: 0; /* Remove default padding */
+}
+
+li {
+  margin-bottom: 15px; /* Add spacing between list items */
+  text-decoration: underline; /* Underline the list items */
+}
+
+a {
+  color: #333a42; /* Set link color to a standard blue */
+  text-decoration: none; /* Remove underline from links */
+}
+
+a:hover {
+  text-decoration: underline; /* Underline links on hover */
+}
+
+/* Add a subtle box shadow to links for a button-like effect */
+a.button-like {
+  display: inline-block;
+  padding: 10px 20px;
+  border-radius: 5px;
+  background-color: #007bff;
+  color: #fff;
+  transition: background-color 0.3s ease;
+}
+
+a.button-like:hover {
+  background-color: #0056b3;
+}
+.edgy-box .btn {
+  margin-top: 15px; /* Adjust the margin as needed */
+}
+/* Style the big buttons */
+.btn-lg {
+  margin-right: 15px; /* Add spacing between buttons */
+}
+
+/* Optionally, you can style the buttons further based on your design preferences */
+.btn-primary {
+  background-color: #007bff;
+  border-color: #007bff;
+}
+
+.btn-primary:hover {
+  background-color: #0056b3;
+  border-color: #0056b3;
+}
+
+.btn-success {
+  background-color: #28a745;
+  border-color: #28a745;
+}
+
+.btn-success:hover {
+  background-color: #218838;
+  border-color: #218838;
+}

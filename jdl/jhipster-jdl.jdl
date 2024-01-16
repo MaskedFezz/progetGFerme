@@ -1,0 +1,51 @@
+
+entity Ferme {
+	fermeLibelle String
+    photo Blob  
+}
+entity Parcelle {
+	parcelleLibelle String
+    photo Blob  
+}
+entity Plante {
+	planteLibelle String
+    racine String
+    photo  Blob  
+}
+entity TypePlante {
+	nom String
+    humiditeMax Long
+    humiditeMin Long
+    temperature Long
+}
+
+entity Plantage {
+	date LocalDate
+    nombre Long
+}
+
+
+
+
+
+
+
+
+
+relationship OneToMany {
+	Ferme to Parcelle{fermeLibelle}
+}
+
+relationship OneToMany {
+	TypePlante to Plante{nom}
+}
+relationship OneToMany {
+	Plante to Plantage{planteLibelle}
+}
+
+relationship OneToMany {
+	Parcelle to Plantage{parcelleLibelle}
+}
+
+
+
