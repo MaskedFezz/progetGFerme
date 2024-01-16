@@ -118,7 +118,7 @@ Si vous préférez ne pas utiliser Docker, vous pouvez également installer manu
 
 1. Clonez ce dépôt: `git clone https://github.com/MaskedFezz/progetGFerme.git`
 
-2. Accédez au répertoire du projet: `cd  Projet-Gestion_des_fermes`
+2. Accédez au répertoire du projet: `cd  progetGFerme`
 
 3. Installez les dépendances front-end: `npm install`
 
